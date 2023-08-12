@@ -1,0 +1,39 @@
+ git log --all --graph
+* commit 802e829e14427c70d98240f6046ad90d18031cac (HEAD -> main, origin/main)
+| Author: ParthSharma35 <pxs789@miami.edu>
+| Date:   Mon Nov 7 19:57:56 2022 -0500
+| 
+|     Crazy
+|   
+*   commit 1009f0d9113b640e5185217be3ce625e5523052b
+|\  Merge: 073a3f9 475ec3f
+| | Author: ParthSharma35 <pxs789@miami.edu>
+| | Date:   Mon Nov 7 19:55:08 2022 -0500
+| | 
+| |     Merged
+| | 
+| * commit 475ec3fe3323dbc48adacab92558fbb690180ef4 (origin/Happy, Happy)
+| | Author: ParthSharma35 <pxs789@miami.edu>
+| | Date:   Mon Nov 7 19:48:14 2022 -0500
+| | 
+| |     Happy
+| | 
+* | commit 073a3f99f70c49c3af299bbc1e3f629a2688b2ff
+|/  Author: ParthSharma35 <pxs789@miami.edu>
+|   Date:   Mon Nov 7 19:50:19 2022 -0500
+|   
+|       Very
+| 
+* commit 5bf32a2c2d1afed8de054af11e272392336060a5
+| Author: ParthSharma35 <pxs789@miami.edu>
+| Date:   Mon Nov 7 19:37:32 2022 -0500
+| 
+|     Second Change
+| 
+* commit b26cb713f047f0d5f8eae32190528ffa3105041f
+  Author: ParthSharma35 <pxs789@miami.edu>
+  Date:   Mon Nov 7 19:23:26 2022 -0500
+  
+      First commi
+
+#ofsvt
